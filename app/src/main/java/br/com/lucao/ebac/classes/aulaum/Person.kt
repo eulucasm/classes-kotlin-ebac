@@ -1,5 +1,5 @@
 package br.com.lucao.ebac.classes.aulaum
-
+/**
 class Person {
    var name: String
    var age:Int
@@ -7,3 +7,4 @@ class Person {
    var phone: String
    var cpf: String
 }
+        */
